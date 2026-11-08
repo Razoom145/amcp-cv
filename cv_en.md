@@ -107,6 +107,21 @@ A web application designed to help users manage their personal finances, track e
 - Database integration.
 - Backend application development.
 
+### TODO List — Task Management Application
+
+A web application designed to help users organize their daily activities, manage tasks, and keep track of their productivity.
+
+**Technologies:** Next.js, Tailwind CSS, Prisma, Supabase.
+
+**Key features:**
+
+- Task creation and management.
+- Organizing and tracking daily activities.
+- Database integration using Supabase.
+- Database management with Prisma ORM.
+- Responsive user interface.
+- Modern full-stack web application architecture.
+
 ### About-Kris — Personal Website
 
 A personal web project created to explore modern frontend development and build practical experience with web technologies.
