@@ -1,5 +1,5 @@
 # Kristina Vasilieva
-
+<img src="photo.jpg" alt="Kristina Vasilieva" width="180">
 **Junior Software Developer | Computer Science Student**
 
 ---
