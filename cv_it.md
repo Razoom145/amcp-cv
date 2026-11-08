@@ -1,5 +1,5 @@
 # Kristina Vasilieva
-
+<img src="photo.jpg" alt="Kristina Vasilieva" width="180">
 **Sviluppatrice Software Junior | Studentessa di Informatica**
 
 ---
